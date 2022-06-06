@@ -9,4 +9,4 @@
 
 ## 항목
 ### CS전공지식
-* [디자인패턴](https://github.com/jwsimhj97/TIL/blob/main/CS/CS_organize.md)
+* [디자인패턴](https://github.com/jwsimhj97/TIL/blob/main/CS/CS_disignPattern.md)
