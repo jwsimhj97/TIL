@@ -20,7 +20,7 @@ public class HelloWorld{
 ```
 
 ## 항목
-* [싱글톤 패턴]()
+* [싱글톤 패턴](https://github.com/jwsimhj97/TIL/blob/main/CS/DisignPattern/Singleton.md)
 * 팩토리 패턴
 * 전략 패턴
 * 옵저버 패턴
