@@ -9,5 +9,5 @@
 
 ## 항목
 ### CS전공지식
-* [객체지향프로그래밍](https://github.com/jwsimhj97/TIL/blob/main/CS/CS_objectOrientedProgramming.md)
+* [프로그래밍 패러다임](https://github.com/jwsimhj97/TIL/blob/main/CS/CS_programmingParadigm.md)
 * [디자인패턴](https://github.com/jwsimhj97/TIL/blob/main/CS/CS_disignPattern.md)
