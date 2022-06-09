@@ -27,6 +27,6 @@ public class HelloWorld{
 * 프록시 패턴과 프록시 서버
 * 이터레이터 패턴
 * 노출모듈 패턴
-* MVC 패턴
+* [MVC 패턴](https://github.com/jwsimhj97/TIL/blob/main/CS/DisignPattern/MVC.md)
 * MVP 패턴
 * MVVM 패턴
