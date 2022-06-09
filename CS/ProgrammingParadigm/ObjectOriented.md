@@ -9,6 +9,7 @@
 - 파라미터 및 파라미터 타입
 - 기능 실행 결과 값 및 타입
 
+<br><br>
 
 ### 객체 지향적 설계원칙
 1. 단일 책임 원칙(Single Responsibility Principle)  
