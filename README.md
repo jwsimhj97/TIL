@@ -9,4 +9,5 @@
 
 ## 항목
 ### CS전공지식
+* [객체지향언어]()
 * [디자인패턴](https://github.com/jwsimhj97/TIL/blob/main/CS/CS_disignPattern.md)
