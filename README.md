@@ -13,3 +13,8 @@
 ### CS전공지식
 * [디자인패턴](https://github.com/jwsimhj97/TIL/blob/main/CS/CS_disignPattern.md)
 * [프로그래밍 패러다임](https://github.com/jwsimhj97/TIL/blob/main/CS/CS_programmingParadigm.md)
+
+### 업무관련 지식
+* Map
+* 암호화
+* 리눅스 기본 명령어
