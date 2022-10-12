@@ -5,5 +5,5 @@
   
 
 ## 항목
-* 기본명령어
+* [리눅스 기본 명령어](https://github.com/jwsimhj97/TIL/blob/main/CS/Linux_basicCommand.md)
 
