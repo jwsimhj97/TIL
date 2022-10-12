@@ -12,4 +12,4 @@
 ### 특징
 * 필요한 정보를 암호문으로 관리
 * 주로 이름, 주소, 연락처 등에 사용
-* <a href="https://blog.naver.com/sanainfo/221517009223" target="_blank">AES 블록암호화 운영모드</a>
+* [AES 블록암호화 운영모드](https://blog.naver.com/sanainfo/221517009223")
