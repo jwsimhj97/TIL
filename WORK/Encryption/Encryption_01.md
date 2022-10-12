@@ -2,6 +2,6 @@
 <br/>
 
 ## 항목
-* 단방향(일방향) 암호화 알고리즘
+* [단방향 암호화 알고리즘](https://github.com/jwsimhj97/TIL/blob/main/WORK/Encryption/Encryption_oneWay.md)
 * 양방향 암호화 알고리즘
 
