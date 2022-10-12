@@ -17,4 +17,4 @@
 ### 업무관련 지식
 * Map
 * 암호화
-* 리눅스 기본 명령어
+* [리눅스 기본 명령어](https://github.com/jwsimhj97/TIL/blob/main/WORK/Linux/Linux_basicCommand.md)
