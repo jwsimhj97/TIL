@@ -6,4 +6,5 @@
 
 ## 항목
 * [리눅스 기본 명령어](https://github.com/jwsimhj97/TIL/blob/main/WORK/Linux/Linux_basicCommand.md)
+* [리눅스 Su와 Su - 의 차이점](https://github.com/jwsimhj97/TIL/blob/main/WORK/Linux/Linux_Su.md)
 
