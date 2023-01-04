@@ -19,4 +19,4 @@
 
 
 ## 관련내용
-* [브로드캐스트리시버란?](https://github.com/jwsimhj97/TIL/blob/main/WORK/AndroidStudio/AndroidStudio_BroadCastRecevier.md)
+* [브로드캐스트리시버란?](https://github.com/jwsimhj97/TIL/blob/main/WORK/AndroidStudio/AndroidStudio_BroadcastReceiver.md)
