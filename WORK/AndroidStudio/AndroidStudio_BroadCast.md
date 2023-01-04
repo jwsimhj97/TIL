@@ -15,3 +15,8 @@
 * ACTION_REBOOT, ACTION_SHUTDOWN : 재부팅/종료
 * ACTION_TIME_TICK : 매분마다 수신
 * android.provider.Telephony.SMS_RECEIVED : sms수신 (RECEIVE_SMS 권한 필요)
+
+
+
+## 관련내용
+* [브로드캐스트리시버란?](https://github.com/jwsimhj97/TIL/blob/main/WORK/AndroidStudio/AndroidStudio_BroadCastRecevier.md)
